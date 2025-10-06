@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi there 👋 I'm Anupama<br>I'm a 2nd year student at KMIT passionate about AI, Web Dev, and all things tech. Currently exploring multi-agent systems, Transformers, and building cool projects!<br><br>
-Current Projects<br>-  **AI Recruiter System** – Multi-agentic AI that automates hiring using Ollama, FastAPI, SQLite<br>-  **Expression Tracker** – Real-time face capture system using MediaPipe and smart filtering <br>-  **Transformer** - Exploring deep learning models.<br><br><br><br>
+Hi there 👋 I'm Anupama<br>I'm a 3rd year student at KMIT passionate about AI, Web Dev, and all things tech. Currently exploring multi-agent systems, Transformers, and building cool projects!<br><br>
+Current Projects<br>-  **AI Recruiter System** – Multi-agentic AI that automates hiring using Ollama, FastAPI, SQLite<br>-  **Expression Tracker** – Real-time face capture system using MediaPipe and smart filtering <br>-  **Transformer** - Exploring deep learning models.<br><br><br><br><br>-  **FinGPT** – Data-centric FinGPT: Democratizing Internet-scale Data for Financial Large Language Model <br>
 
 
 ## 🌐 Socials:
